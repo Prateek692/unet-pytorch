@@ -1,0 +1,8 @@
+segmentation-models-pytorch
+torch
+torchvision
+pillow
+numpy
+os-sys
+cv2
+time
